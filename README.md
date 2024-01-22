@@ -1,2 +1,2 @@
-# blog
-blog for tanza.me
+# news
+news for farsand.com
